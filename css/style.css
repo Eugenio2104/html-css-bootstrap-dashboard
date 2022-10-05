@@ -23,9 +23,10 @@
 
 .main-center{
   width: 90%;
-  background-color: orange;
+
 }
 
-.tabella, .table-text{
+.tabella, .table-text ,.i-table{
   border: 1px solid black;
 }
+
